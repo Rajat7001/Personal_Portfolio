@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "id": "portfolio",
+            "title": "My Personal Portfolio",
+            "description": [
+                "It was developed by using HTML, CSS and Javascript.",
+                "Designed a static website to represent the resume in an easy and unique way to showcase my work."
+            ],
+            "imageURL": "assets/img/portfolio.png",
+            "github": "https://github.com/Rajat7001",
+            "status": "active"
+        },
+
+        
+        
+        {
+            "id": "chatapp",
+            "title": " Multi User Chatting App",
+            "description": [
+                "It was developed by using HTML, CSS, Javascript, SocketIo and NodeJs.",
+                "Node.js is responsible for creating room and managing users in the room."
+            ],
+            "imageURL": "assets/img/chatting.jpeg",
+            "github": "https://github.com/Rajat7001",
+            "status": "active"
+        },
+
+
+        {
+            "id": "banking record system",
+            "title": " Banking Record System",
+            "description": [
+                "It was developed by using C++."
+                
+            ],
+            "imageURL": "assets/img/bankingRecord.png",
+            "github": "https://github.com/Rajat7001",
+            "status": "active"
+            
+        },
+        {
+            "id": "Algo Visualizer",
+            "title": " Algorithm Visualizer",
+            "description": [
+                "It was developed by using HTML , CSS , JavaScript."
+                
+            ],
+            "imageURL": "assets/img/algoVisualizer.jpeg",
+            "github": "https://github.com/Rajat7001",
+            "status": "active"
+        },
+
+        {
+            "id": "drowsiness detection system",
+            "title": " Drowsiness Detection System",
+            "description": [
+                "It was developed by using Python , OpenCV."
+                
+            ],
+            "imageURL": "assets/img/drowsiness.jpeg",
+            "github": "https://github.com/Rajat7001",
+            "status": "active"
+        },
+
+
+        {
+            "id": "quizsite",
+            "title": "Online Quiz Website",
+            "description": [
+                "It was developed by using Java.",
+                "To provide service as conduct online quiz"
+            ],
+            "imageURL": "assets/img/quiz.png",
+            "github": "https://github.com/Rajat7001"
+            
+        }
+    ]
+}

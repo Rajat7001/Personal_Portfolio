@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "description": "Web Development Intern",
+            "platform": "Oasis",
+            "imageUrl": "../assets/img/oasis.png"
+        },
+
+        {
+            "description": "Android Development Intern",
+            "platform": "CodSoft",
+            "imageUrl": "../assets/img/codSoft.png"
+        },
+
+        {
+            "description": "JPMORGAN CHASE & CO Internship",
+            "platform": "Forage",
+            "imageUrl": "../assets/img/problemsolvingbasic.png"
+        },
+
+
+        {
+            "description": "Digital Marketing Certificate",
+            "platform": "GOOGLE",
+            "imageUrl": "../assets/img/Digital_Marketing.png"
+        },
+        
+
+        
+
+        {
+            "description": "Machine Learning Certificate",
+            "platform": "IBM",
+            "imageUrl": "../assets/img/Machine_Learning.png"
+        },
+
+        {
+            "description": "Front-End-Development",
+            "platform": "IBM",
+            "imageUrl": "../assets/img/Full_Stack_Development.png"
+        }
+
+
+       
+    ]
+}

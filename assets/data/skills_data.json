@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "skill":"Data Structures & Algorithms",
+            "level": 75
+        },
+        {
+            "skill": "C/C++ Programming",
+            "level": 80
+        },
+        {
+            "skill": "DataBase Management System",
+            "level": 70
+        },
+        {
+            "skill": "Operarting System",
+            "level": 70
+        },
+        {
+            "skill": "Python",
+            "level": 50
+        },
+        {
+            "skill": "Java",
+            "level": 50
+        },
+        {
+            "skill": "NodeJs",
+            "level": 50
+        },
+        {
+            "skill": "React",
+            "level": 50
+        },
+        {
+            "skill": "HTML5",
+            "level": 75
+        },
+        {
+            "skill": "Cascading Style Sheets 3",
+            "level": 75
+        },
+        {
+            "skill": "JavaScript",
+            "level": 60
+        },
+        {
+            "skill": "SQL",
+            "level": 70
+        },
+        {
+            "skill": "Object Oriented Programming",
+            "level": 70
+        },
+        {
+            "skill": "ExpressJs",
+            "level": 50
+        },
+        {
+            "skill": "Machine Learning",
+            "level": 50
+        },
+        {
+            "skill": "Computer Hardware",
+            "level": 70
+        }
+    ]
+}
